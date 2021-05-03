@@ -1,0 +1,7 @@
+d1 $ sound "bd [bd cp] bd bd"
+
+d1 $ sound "[bd bd sn:5] [bd sn:3]"
+
+d1 $ sound "[[bd bd] bd sn:5] [bd sn:3]"
+
+hush

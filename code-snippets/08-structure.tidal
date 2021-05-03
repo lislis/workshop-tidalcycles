@@ -1,0 +1,5 @@
+d1 $ sound "drum drum drum drum" # vowel "a o e"
+
+d1 $ vowel "a o ~ i" # sound "drum"
+
+hush

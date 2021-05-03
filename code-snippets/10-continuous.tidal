@@ -1,0 +1,5 @@
+
+-- try tri, saw or rand
+d1 $ sound "bd*32" # gain saw
+
+hush

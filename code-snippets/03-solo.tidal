@@ -1,0 +1,13 @@
+d1 $ sound "arpy cp arpy:2"
+
+d2 $ sound "sn sn:2 bd sn"
+
+solo 2
+
+-- now only the second pattern will be playing
+
+unsolo 2
+
+-- now both will be playing, again
+
+hush

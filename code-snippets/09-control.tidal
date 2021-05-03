@@ -1,0 +1,13 @@
+d1 $ sound "bd hh sn:1 hh sn:1 hh" # gain "1 0.7 0.5"
+
+d1 $ sound "numbers:1 numbers:2 numbers:3 numbers:4" # speed "1 1.5 2 0.5"
+
+d1 $ speed "1 2 4" # sound "jungbass:6"
+
+d1 $ up "0 ~ 12 24" # sound "jungbass:6"
+
+d1 $ sound "numbers:1 numbers:2 numbers:3 numbers:4" # pan "0 0.5 1"
+
+d1 $ sound "kurt:4 kurt:4" # shape "0 0.78" # gain "0.7"
+
+hush
